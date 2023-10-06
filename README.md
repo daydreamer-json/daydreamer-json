@@ -140,4 +140,5 @@
 
 ---
 
+Icon Image: (C) 2023 \<Anonymous my friend\><br>
 Header Image: (C) 2023 daydreamer-json
