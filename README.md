@@ -4,6 +4,12 @@
 
 ---
 
+<h3 align="left">I am a member of:</h3>
+
+![HYriverside Banner Image](https://raw.githubusercontent.com/daydreamer-json/daydreamer-json/main/img/hyriverside/hyriverside_2600px_croppedCinema.webp)
+
+---
+
 <h3 align="left">I use:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
