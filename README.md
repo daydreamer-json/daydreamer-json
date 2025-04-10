@@ -12,11 +12,11 @@
 
 <h3 align="left">I use:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,css,html,svg,rust,py,cs,cpp,react,md,bash,regex"><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,nginx,discordjs,selenium,express,bootstrap,tailwind,sqlite,postgres,mongodb"><br>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ae,pr,ps,ableton"><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,css,html,svg,rust,py,react,md,bash,regex"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,discordjs,selenium,bootstrap,tailwind,sqlite"><br>
+  <img src="https://skillicons.dev/icons?i=unity,blender,ae,pr,ps,ableton"><br>
   <img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,notion,postman"><br>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,windows,ubuntu,linux">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,windows,ubuntu,linux">
 </p>
 
 ---
