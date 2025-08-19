@@ -23,5 +23,5 @@ nooooob developer
 
 ---
 
-Icon Image: (C) 2023 \<Anonymous my friend\><br>
+Icon Image (Raiden Shogun): (C) 2025 \<Anonymous my friend\><br>
 Header Image: (C) 2023 daydreamer-json
