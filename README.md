@@ -23,5 +23,14 @@ nooooob developer
 
 ---
 
+<div>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=daydreamer-json&count_private=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daydreamer-json&show_icons=true&locale=en&layout=compact&theme=radical" />
+  </p>
+</div>
+
+---
+
 Icon Image (Raiden Shogun): (C) 2025 \<Anonymous my friend\><br>
 Header Image: (C) 2023 daydreamer-json
