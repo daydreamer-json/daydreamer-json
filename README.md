@@ -14,10 +14,10 @@ nooooob developer
 
 <h3 align="left">I use:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,css,html,svg,rust,py,react,md,bash,regex"><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,bun,discordjs,selenium,bootstrap,sqlite"><br>
-  <img src="https://skillicons.dev/icons?i=unity,blender,ae,pr,ps,ableton"><br>
-  <img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,notion,postman"><br>
+  <img src="https://skillicons.dev/icons?i=ts,css,html,react,md,bash,regex"><br>
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,npm"><br>
+  <img src="https://skillicons.dev/icons?i=ae,pr,ps,ableton"><br>
+  <img src="https://skillicons.dev/icons?i=cloudflare,postman"><br>
   <img src="https://skillicons.dev/icons?i=vscode,windows,ubuntu">
 </p>
 
@@ -26,7 +26,7 @@ nooooob developer
 <div>
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=daydreamer-json&count_private=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daydreamer-json&show_icons=true&locale=en&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daydreamer-json&show_icons=true&locale=en&layout=compact&theme=radical&count_private=false" />
   </p>
 </div>
 
