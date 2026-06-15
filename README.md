@@ -19,6 +19,8 @@ nooooob developer
 
 <div>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daydreamer-json&show_icons=true&locale=en&layout=compact&theme=radical&count_private=false" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daydreamer-json&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daydreamer-json&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daydreamer-json&utcOffset=9&theme=github_dark" />
   </p>
 </div>
