@@ -8,10 +8,8 @@ nooooob developer
 
 <h3 align="left">I use:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,css,html,react"><br>
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,npm"><br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,postman"><br>
-  <img src="https://skillicons.dev/icons?i=vscode,windows,ubuntu"><br>
+  <img src="https://skillicons.dev/icons?i=ts,css,html,react,vite,bun,nodejs"><br>
+  <img src="https://skillicons.dev/icons?i=vscode,arch,docker"><br>
   <img src="https://skillicons.dev/icons?i=ae,pr,ps,ableton">
 </p>
 
